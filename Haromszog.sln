@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haromszog", "Haromszog\Haromszog.csproj", "{0687CF90-2205-4F63-BD09-C873AFAA25C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaromszogTest", "HaromszogTest\HaromszogTest.csproj", "{DE061C5F-8FB9-49DC-9012-2DC2887F3C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0687CF90-2205-4F63-BD09-C873AFAA25C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0687CF90-2205-4F63-BD09-C873AFAA25C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0687CF90-2205-4F63-BD09-C873AFAA25C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0687CF90-2205-4F63-BD09-C873AFAA25C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE061C5F-8FB9-49DC-9012-2DC2887F3C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE061C5F-8FB9-49DC-9012-2DC2887F3C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE061C5F-8FB9-49DC-9012-2DC2887F3C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE061C5F-8FB9-49DC-9012-2DC2887F3C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CCB451-9318-40E5-8528-C572B41F75BA}
+	EndGlobalSection
+EndGlobal
