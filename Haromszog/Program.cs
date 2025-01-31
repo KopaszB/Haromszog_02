@@ -14,7 +14,7 @@ namespace Haromszog
             {
                 if (a == b && a == c && b == c)
                 {
-                    return "Szabályos háromszög";
+                    return "Szabályos háromszög!";
                 }
                 else if (a == b || b == c || a == c)
                 {
